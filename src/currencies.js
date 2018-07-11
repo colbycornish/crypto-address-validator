@@ -122,10 +122,6 @@ var CURRENCIES = [{
     addressTypes: {prod: [], testnet: []},
     hashFunction: 'blake224',
 },{
-    name: 'iota',
-    symbol: 'iota',
-    addressTypes: {prod: [], testnet: []},
-},{
     name: 'nano',
     symbol: 'nano',
     addressTypes: {prod: [], testnet: []},
